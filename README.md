@@ -9,6 +9,7 @@ My LeetCode solutions in Python.
 | ------- |
 | [0001-two-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
