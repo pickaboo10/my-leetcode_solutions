@@ -12,6 +12,7 @@ My LeetCode solutions in Python.
 | [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ My LeetCode solutions in Python.
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,16 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
