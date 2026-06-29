@@ -70,4 +70,8 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
