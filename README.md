@@ -10,6 +10,7 @@ My LeetCode solutions in Python.
 | [0001-two-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
@@ -76,4 +77,8 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/2235-add-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
