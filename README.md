@@ -9,6 +9,7 @@ My LeetCode solutions in Python.
 | ------- |
 | [0001-two-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ My LeetCode solutions in Python.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0283-move-zeroes) |
