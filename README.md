@@ -13,6 +13,7 @@ My LeetCode solutions in Python.
 | [0016-3sum-closest](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ My LeetCode solutions in Python.
 | ------- |
 | [0015-3sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -54,6 +56,7 @@ My LeetCode solutions in Python.
 | [0016-3sum-closest](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0344-reverse-string) |
@@ -91,4 +94,12 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
