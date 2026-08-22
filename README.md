@@ -17,6 +17,7 @@ My LeetCode solutions in Python.
 | [0075-sort-colors](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
@@ -114,4 +115,13 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
