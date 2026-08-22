@@ -24,6 +24,7 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -40,6 +41,7 @@ My LeetCode solutions in Python.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -108,4 +110,8 @@ My LeetCode solutions in Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
