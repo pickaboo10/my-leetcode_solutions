@@ -21,6 +21,7 @@ My LeetCode solutions in Python.
 | [0217-contains-duplicate](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
