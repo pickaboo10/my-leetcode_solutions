@@ -45,6 +45,7 @@ My LeetCode solutions in Python.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0344-reverse-string) |
