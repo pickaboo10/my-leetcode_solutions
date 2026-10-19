@@ -13,6 +13,7 @@ My LeetCode solutions in Python.
 | [0016-3sum-closest](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@ My LeetCode solutions in Python.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
