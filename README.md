@@ -25,6 +25,7 @@ My LeetCode solutions in Python.
 | [0283-move-zeroes](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0705-design-hashset) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ My LeetCode solutions in Python.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vanisha2024/my-leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
 | ------- |
